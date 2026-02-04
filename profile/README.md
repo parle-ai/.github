@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is: 
 
 <!--
 
@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Playground Lab 
+# Playground 
 
 **找点子 → 快速开发 → 市场验证 → 用户反馈 → 持续迭代**  
 We run a tight loop: **ideas → MVP → market validation → feedback → iteration**.
