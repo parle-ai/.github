@@ -1,19 +1,27 @@
-## Hi there 👋 This is: 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-# Playground 
+# Playground Lab
 
 **找点子 → 快速开发 → 市场验证 → 用户反馈 → 持续迭代**  
 We run a tight loop: **ideas → MVP → market validation → feedback → iteration**.
+
+## Philosophy
+
+We believe in building tools that are **open, hackable, and yours**.
+
+- **Open** — We build on open-source software and open protocols. No vendor lock-in, no black boxes.
+- **Hackable** — Everything is a config file, an API call, or a container. If you can't modify it, you don't own it.
+- **Yours** — Your data lives where you decide. Self-hosted first, cloud optional.
+
+> *"There's a lot more higher quality longform and a lot less slop intended to provoke."*  
+> *— Andrej Karpathy, on why RSS matters*
+
+We don't fight algorithms with better algorithms. We replace them with protocols you control.
+
+## Projects
+
+| Project | What it does |
+|---------|-------------|
+| [rss-feed-hub](https://github.com/parle-ai/rss-feed-hub) | Self-hosted info aggregator — Bilibili, YouTube, HN, and 100+ sources in one place. Open, hackable, no algorithms. |
+
+---
 
 If you'd like to collaborate or share feedback, feel free to reach out.
