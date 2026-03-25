@@ -11,8 +11,7 @@ We believe in building tools that are **open, hackable, and yours**.
 - **Hackable** — Everything is a config file, an API call, or a container. If you can't modify it, you don't own it.
 - **Yours** — Your data lives where you decide. Self-hosted first, cloud optional.
 
-> *"There's a lot more higher quality longform and a lot less slop intended to provoke."*  
-> *— Andrej Karpathy, on why RSS matters*
+> *"If you can't modify it, you don't own it. If you don't own it, it owns you."*
 
 We don't fight algorithms with better algorithms. We replace them with protocols you control.
 
