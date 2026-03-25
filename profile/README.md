@@ -3,6 +3,8 @@
 **找点子 → 快速开发 → 市场验证 → 用户反馈 → 持续迭代**  
 We run a tight loop: **ideas → MVP → market validation → feedback → iteration**.
 
+If you'd like to collaborate or share feedback, feel free to reach out.
+
 ## Philosophy
 
 We believe in building tools that are **open, hackable, and yours**.
@@ -20,7 +22,3 @@ We don't fight algorithms with better algorithms. We replace them with protocols
 | Project | What it does |
 |---------|-------------|
 | [rss-feed-hub](https://github.com/parle-ai/rss-feed-hub) | Self-hosted info aggregator — Bilibili, YouTube, HN, and 100+ sources in one place. Open, hackable, no algorithms. |
-
----
-
-If you'd like to collaborate or share feedback, feel free to reach out.
